@@ -1,0 +1,14 @@
+C:\Users\alcpa\OneDrive\Masaüstü\C#\TimeClass2\bin\Debug\net8.0\TimeClass2.exe
+C:\Users\alcpa\OneDrive\Masaüstü\C#\TimeClass2\bin\Debug\net8.0\TimeClass2.deps.json
+C:\Users\alcpa\OneDrive\Masaüstü\C#\TimeClass2\bin\Debug\net8.0\TimeClass2.runtimeconfig.json
+C:\Users\alcpa\OneDrive\Masaüstü\C#\TimeClass2\bin\Debug\net8.0\TimeClass2.dll
+C:\Users\alcpa\OneDrive\Masaüstü\C#\TimeClass2\bin\Debug\net8.0\TimeClass2.pdb
+C:\Users\alcpa\OneDrive\Masaüstü\C#\TimeClass2\obj\Debug\net8.0\TimeClass2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alcpa\OneDrive\Masaüstü\C#\TimeClass2\obj\Debug\net8.0\TimeClass2.AssemblyInfoInputs.cache
+C:\Users\alcpa\OneDrive\Masaüstü\C#\TimeClass2\obj\Debug\net8.0\TimeClass2.AssemblyInfo.cs
+C:\Users\alcpa\OneDrive\Masaüstü\C#\TimeClass2\obj\Debug\net8.0\TimeClass2.csproj.CoreCompileInputs.cache
+C:\Users\alcpa\OneDrive\Masaüstü\C#\TimeClass2\obj\Debug\net8.0\TimeClass2.dll
+C:\Users\alcpa\OneDrive\Masaüstü\C#\TimeClass2\obj\Debug\net8.0\refint\TimeClass2.dll
+C:\Users\alcpa\OneDrive\Masaüstü\C#\TimeClass2\obj\Debug\net8.0\TimeClass2.pdb
+C:\Users\alcpa\OneDrive\Masaüstü\C#\TimeClass2\obj\Debug\net8.0\TimeClass2.genruntimeconfig.cache
+C:\Users\alcpa\OneDrive\Masaüstü\C#\TimeClass2\obj\Debug\net8.0\ref\TimeClass2.dll

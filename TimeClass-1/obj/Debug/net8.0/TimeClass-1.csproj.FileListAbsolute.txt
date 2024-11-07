@@ -1,0 +1,14 @@
+C:\Users\alcpa\OneDrive\Masaüstü\C#\TimeClass-1\bin\Debug\net8.0\TimeClass-1.exe
+C:\Users\alcpa\OneDrive\Masaüstü\C#\TimeClass-1\bin\Debug\net8.0\TimeClass-1.deps.json
+C:\Users\alcpa\OneDrive\Masaüstü\C#\TimeClass-1\bin\Debug\net8.0\TimeClass-1.runtimeconfig.json
+C:\Users\alcpa\OneDrive\Masaüstü\C#\TimeClass-1\bin\Debug\net8.0\TimeClass-1.dll
+C:\Users\alcpa\OneDrive\Masaüstü\C#\TimeClass-1\bin\Debug\net8.0\TimeClass-1.pdb
+C:\Users\alcpa\OneDrive\Masaüstü\C#\TimeClass-1\obj\Debug\net8.0\TimeClass-1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alcpa\OneDrive\Masaüstü\C#\TimeClass-1\obj\Debug\net8.0\TimeClass-1.AssemblyInfoInputs.cache
+C:\Users\alcpa\OneDrive\Masaüstü\C#\TimeClass-1\obj\Debug\net8.0\TimeClass-1.AssemblyInfo.cs
+C:\Users\alcpa\OneDrive\Masaüstü\C#\TimeClass-1\obj\Debug\net8.0\TimeClass-1.csproj.CoreCompileInputs.cache
+C:\Users\alcpa\OneDrive\Masaüstü\C#\TimeClass-1\obj\Debug\net8.0\TimeClass-1.dll
+C:\Users\alcpa\OneDrive\Masaüstü\C#\TimeClass-1\obj\Debug\net8.0\refint\TimeClass-1.dll
+C:\Users\alcpa\OneDrive\Masaüstü\C#\TimeClass-1\obj\Debug\net8.0\TimeClass-1.pdb
+C:\Users\alcpa\OneDrive\Masaüstü\C#\TimeClass-1\obj\Debug\net8.0\TimeClass-1.genruntimeconfig.cache
+C:\Users\alcpa\OneDrive\Masaüstü\C#\TimeClass-1\obj\Debug\net8.0\ref\TimeClass-1.dll

@@ -1,0 +1,14 @@
+C:\Users\alcpa\OneDrive\Masaüstü\C#\SimpleTime\bin\Debug\net8.0\SimpleTime.exe
+C:\Users\alcpa\OneDrive\Masaüstü\C#\SimpleTime\bin\Debug\net8.0\SimpleTime.deps.json
+C:\Users\alcpa\OneDrive\Masaüstü\C#\SimpleTime\bin\Debug\net8.0\SimpleTime.runtimeconfig.json
+C:\Users\alcpa\OneDrive\Masaüstü\C#\SimpleTime\bin\Debug\net8.0\SimpleTime.dll
+C:\Users\alcpa\OneDrive\Masaüstü\C#\SimpleTime\bin\Debug\net8.0\SimpleTime.pdb
+C:\Users\alcpa\OneDrive\Masaüstü\C#\SimpleTime\obj\Debug\net8.0\SimpleTime.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alcpa\OneDrive\Masaüstü\C#\SimpleTime\obj\Debug\net8.0\SimpleTime.AssemblyInfoInputs.cache
+C:\Users\alcpa\OneDrive\Masaüstü\C#\SimpleTime\obj\Debug\net8.0\SimpleTime.AssemblyInfo.cs
+C:\Users\alcpa\OneDrive\Masaüstü\C#\SimpleTime\obj\Debug\net8.0\SimpleTime.csproj.CoreCompileInputs.cache
+C:\Users\alcpa\OneDrive\Masaüstü\C#\SimpleTime\obj\Debug\net8.0\SimpleTime.dll
+C:\Users\alcpa\OneDrive\Masaüstü\C#\SimpleTime\obj\Debug\net8.0\refint\SimpleTime.dll
+C:\Users\alcpa\OneDrive\Masaüstü\C#\SimpleTime\obj\Debug\net8.0\SimpleTime.pdb
+C:\Users\alcpa\OneDrive\Masaüstü\C#\SimpleTime\obj\Debug\net8.0\SimpleTime.genruntimeconfig.cache
+C:\Users\alcpa\OneDrive\Masaüstü\C#\SimpleTime\obj\Debug\net8.0\ref\SimpleTime.dll
