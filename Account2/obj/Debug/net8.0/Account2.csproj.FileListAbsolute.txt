@@ -1,0 +1,14 @@
+C:\Users\alcpa\OneDrive\Masaüstü\C#\Account2\bin\Debug\net8.0\Account2.exe
+C:\Users\alcpa\OneDrive\Masaüstü\C#\Account2\bin\Debug\net8.0\Account2.deps.json
+C:\Users\alcpa\OneDrive\Masaüstü\C#\Account2\bin\Debug\net8.0\Account2.runtimeconfig.json
+C:\Users\alcpa\OneDrive\Masaüstü\C#\Account2\bin\Debug\net8.0\Account2.dll
+C:\Users\alcpa\OneDrive\Masaüstü\C#\Account2\bin\Debug\net8.0\Account2.pdb
+C:\Users\alcpa\OneDrive\Masaüstü\C#\Account2\obj\Debug\net8.0\Account2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alcpa\OneDrive\Masaüstü\C#\Account2\obj\Debug\net8.0\Account2.AssemblyInfoInputs.cache
+C:\Users\alcpa\OneDrive\Masaüstü\C#\Account2\obj\Debug\net8.0\Account2.AssemblyInfo.cs
+C:\Users\alcpa\OneDrive\Masaüstü\C#\Account2\obj\Debug\net8.0\Account2.csproj.CoreCompileInputs.cache
+C:\Users\alcpa\OneDrive\Masaüstü\C#\Account2\obj\Debug\net8.0\Account2.dll
+C:\Users\alcpa\OneDrive\Masaüstü\C#\Account2\obj\Debug\net8.0\refint\Account2.dll
+C:\Users\alcpa\OneDrive\Masaüstü\C#\Account2\obj\Debug\net8.0\Account2.pdb
+C:\Users\alcpa\OneDrive\Masaüstü\C#\Account2\obj\Debug\net8.0\Account2.genruntimeconfig.cache
+C:\Users\alcpa\OneDrive\Masaüstü\C#\Account2\obj\Debug\net8.0\ref\Account2.dll
