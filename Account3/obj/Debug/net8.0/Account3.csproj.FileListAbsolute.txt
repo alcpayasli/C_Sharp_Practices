@@ -1,0 +1,14 @@
+C:\Users\alcpa\OneDrive\Masaüstü\C#\Account3\bin\Debug\net8.0\Account3.exe
+C:\Users\alcpa\OneDrive\Masaüstü\C#\Account3\bin\Debug\net8.0\Account3.deps.json
+C:\Users\alcpa\OneDrive\Masaüstü\C#\Account3\bin\Debug\net8.0\Account3.runtimeconfig.json
+C:\Users\alcpa\OneDrive\Masaüstü\C#\Account3\bin\Debug\net8.0\Account3.dll
+C:\Users\alcpa\OneDrive\Masaüstü\C#\Account3\bin\Debug\net8.0\Account3.pdb
+C:\Users\alcpa\OneDrive\Masaüstü\C#\Account3\obj\Debug\net8.0\Account3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alcpa\OneDrive\Masaüstü\C#\Account3\obj\Debug\net8.0\Account3.AssemblyInfoInputs.cache
+C:\Users\alcpa\OneDrive\Masaüstü\C#\Account3\obj\Debug\net8.0\Account3.AssemblyInfo.cs
+C:\Users\alcpa\OneDrive\Masaüstü\C#\Account3\obj\Debug\net8.0\Account3.csproj.CoreCompileInputs.cache
+C:\Users\alcpa\OneDrive\Masaüstü\C#\Account3\obj\Debug\net8.0\Account3.dll
+C:\Users\alcpa\OneDrive\Masaüstü\C#\Account3\obj\Debug\net8.0\refint\Account3.dll
+C:\Users\alcpa\OneDrive\Masaüstü\C#\Account3\obj\Debug\net8.0\Account3.pdb
+C:\Users\alcpa\OneDrive\Masaüstü\C#\Account3\obj\Debug\net8.0\Account3.genruntimeconfig.cache
+C:\Users\alcpa\OneDrive\Masaüstü\C#\Account3\obj\Debug\net8.0\ref\Account3.dll
