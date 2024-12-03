@@ -1,0 +1,14 @@
+C:\Users\alcpa\OneDrive\Masaüstü\C#\GradeAverage\bin\Debug\net8.0\GradeAverage.exe
+C:\Users\alcpa\OneDrive\Masaüstü\C#\GradeAverage\bin\Debug\net8.0\GradeAverage.deps.json
+C:\Users\alcpa\OneDrive\Masaüstü\C#\GradeAverage\bin\Debug\net8.0\GradeAverage.runtimeconfig.json
+C:\Users\alcpa\OneDrive\Masaüstü\C#\GradeAverage\bin\Debug\net8.0\GradeAverage.dll
+C:\Users\alcpa\OneDrive\Masaüstü\C#\GradeAverage\bin\Debug\net8.0\GradeAverage.pdb
+C:\Users\alcpa\OneDrive\Masaüstü\C#\GradeAverage\obj\Debug\net8.0\GradeAverage.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alcpa\OneDrive\Masaüstü\C#\GradeAverage\obj\Debug\net8.0\GradeAverage.AssemblyInfoInputs.cache
+C:\Users\alcpa\OneDrive\Masaüstü\C#\GradeAverage\obj\Debug\net8.0\GradeAverage.AssemblyInfo.cs
+C:\Users\alcpa\OneDrive\Masaüstü\C#\GradeAverage\obj\Debug\net8.0\GradeAverage.csproj.CoreCompileInputs.cache
+C:\Users\alcpa\OneDrive\Masaüstü\C#\GradeAverage\obj\Debug\net8.0\GradeAverage.dll
+C:\Users\alcpa\OneDrive\Masaüstü\C#\GradeAverage\obj\Debug\net8.0\refint\GradeAverage.dll
+C:\Users\alcpa\OneDrive\Masaüstü\C#\GradeAverage\obj\Debug\net8.0\GradeAverage.pdb
+C:\Users\alcpa\OneDrive\Masaüstü\C#\GradeAverage\obj\Debug\net8.0\GradeAverage.genruntimeconfig.cache
+C:\Users\alcpa\OneDrive\Masaüstü\C#\GradeAverage\obj\Debug\net8.0\ref\GradeAverage.dll

@@ -1,0 +1,8 @@
+D:\YandexDisk\_N\Dersler\OOP_2\materials\ders_2\figs\fig10_16\TimeExtensions\TimeExtensions\bin\Debug\TimeExtensions.exe.config
+D:\YandexDisk\_N\Dersler\OOP_2\materials\ders_2\figs\fig10_16\TimeExtensions\TimeExtensions\bin\Debug\TimeExtensions.exe
+D:\YandexDisk\_N\Dersler\OOP_2\materials\ders_2\figs\fig10_16\TimeExtensions\TimeExtensions\bin\Debug\TimeExtensions.pdb
+D:\YandexDisk\_N\Dersler\OOP_2\materials\ders_2\figs\fig10_16\TimeExtensions\TimeExtensions\obj\Debug\TimeExtensions.csproj.AssemblyReference.cache
+D:\YandexDisk\_N\Dersler\OOP_2\materials\ders_2\figs\fig10_16\TimeExtensions\TimeExtensions\obj\Debug\TimeExtensions.csproj.SuggestedBindingRedirects.cache
+D:\YandexDisk\_N\Dersler\OOP_2\materials\ders_2\figs\fig10_16\TimeExtensions\TimeExtensions\obj\Debug\TimeExtensions.csproj.CoreCompileInputs.cache
+D:\YandexDisk\_N\Dersler\OOP_2\materials\ders_2\figs\fig10_16\TimeExtensions\TimeExtensions\obj\Debug\TimeExtensions.exe
+D:\YandexDisk\_N\Dersler\OOP_2\materials\ders_2\figs\fig10_16\TimeExtensions\TimeExtensions\obj\Debug\TimeExtensions.pdb

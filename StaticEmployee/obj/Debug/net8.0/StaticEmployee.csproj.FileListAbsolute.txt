@@ -1,0 +1,14 @@
+C:\Users\alcpa\OneDrive\Masaüstü\C#\StaticEmployee\obj\Debug\net8.0\StaticEmployee.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alcpa\OneDrive\Masaüstü\C#\StaticEmployee\obj\Debug\net8.0\StaticEmployee.AssemblyInfoInputs.cache
+C:\Users\alcpa\OneDrive\Masaüstü\C#\StaticEmployee\obj\Debug\net8.0\StaticEmployee.AssemblyInfo.cs
+C:\Users\alcpa\OneDrive\Masaüstü\C#\StaticEmployee\obj\Debug\net8.0\StaticEmployee.csproj.CoreCompileInputs.cache
+C:\Users\alcpa\OneDrive\Masaüstü\C#\StaticEmployee\bin\Debug\net8.0\StaticEmployee.exe
+C:\Users\alcpa\OneDrive\Masaüstü\C#\StaticEmployee\bin\Debug\net8.0\StaticEmployee.deps.json
+C:\Users\alcpa\OneDrive\Masaüstü\C#\StaticEmployee\bin\Debug\net8.0\StaticEmployee.runtimeconfig.json
+C:\Users\alcpa\OneDrive\Masaüstü\C#\StaticEmployee\bin\Debug\net8.0\StaticEmployee.dll
+C:\Users\alcpa\OneDrive\Masaüstü\C#\StaticEmployee\bin\Debug\net8.0\StaticEmployee.pdb
+C:\Users\alcpa\OneDrive\Masaüstü\C#\StaticEmployee\obj\Debug\net8.0\StaticEmployee.dll
+C:\Users\alcpa\OneDrive\Masaüstü\C#\StaticEmployee\obj\Debug\net8.0\refint\StaticEmployee.dll
+C:\Users\alcpa\OneDrive\Masaüstü\C#\StaticEmployee\obj\Debug\net8.0\StaticEmployee.pdb
+C:\Users\alcpa\OneDrive\Masaüstü\C#\StaticEmployee\obj\Debug\net8.0\StaticEmployee.genruntimeconfig.cache
+C:\Users\alcpa\OneDrive\Masaüstü\C#\StaticEmployee\obj\Debug\net8.0\ref\StaticEmployee.dll

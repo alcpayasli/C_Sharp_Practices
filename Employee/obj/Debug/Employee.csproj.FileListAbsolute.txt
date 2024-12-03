@@ -1,0 +1,12 @@
+D:\YandexDisk\_N\Dersler\OOP_2\materials\ders_2\figs\fig10_07-09\Employee\Employee\bin\Debug\Employee.exe
+D:\YandexDisk\_N\Dersler\OOP_2\materials\ders_2\figs\fig10_07-09\Employee\Employee\bin\Debug\Employee.pdb
+D:\YandexDisk\_N\Dersler\OOP_2\materials\ders_2\figs\fig10_07-09\Employee\Employee\obj\Debug\Employee.csproj.AssemblyReference.cache
+D:\YandexDisk\_N\Dersler\OOP_2\materials\ders_2\figs\fig10_07-09\Employee\Employee\obj\Debug\Employee.csproj.CoreCompileInputs.cache
+D:\YandexDisk\_N\Dersler\OOP_2\materials\ders_2\figs\fig10_07-09\Employee\Employee\obj\Debug\Employee.exe
+D:\YandexDisk\_N\Dersler\OOP_2\materials\ders_2\figs\fig10_07-09\Employee\Employee\obj\Debug\Employee.pdb
+C:\Users\alcpa\OneDrive\Masaüstü\C#\Employee\bin\Debug\Employee.exe
+C:\Users\alcpa\OneDrive\Masaüstü\C#\Employee\bin\Debug\Employee.pdb
+C:\Users\alcpa\OneDrive\Masaüstü\C#\Employee\obj\Debug\Employee.csproj.AssemblyReference.cache
+C:\Users\alcpa\OneDrive\Masaüstü\C#\Employee\obj\Debug\Employee.csproj.CoreCompileInputs.cache
+C:\Users\alcpa\OneDrive\Masaüstü\C#\Employee\obj\Debug\Employee.exe
+C:\Users\alcpa\OneDrive\Masaüstü\C#\Employee\obj\Debug\Employee.pdb
